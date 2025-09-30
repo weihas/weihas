@@ -1,5 +1,14 @@
-### Hi there  
-<br/>**weihas/weihas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br/>Here are some ideas to get you started:
-<br/>-   I’m currently working on IOS <br/>-   I’m currently learning Swift<br/>
-![](https://github-readme-stats.vercel.app/api?username=weihas)
+# 👋 Hi, I'm Weiha
+
+## 🔥 About Me
+- iOS Developer | Swift / ~~Objective-C~~
+- Love coding, music, and reading
+- Always learning new things 🚀
+
+## 📊 GitHub Stats
+![Weiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiha&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiha&layout=compact)
+
+## 🛠️ Skills
+Swift, Objective-C, SwiftUI, UIKit, CoreData, Git
