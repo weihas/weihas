@@ -6,8 +6,6 @@
 - Always learning new things 🚀
 
 ## 📊 GitHub Stats
-![Weiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weihas&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weihas&layout=compact)
 
 ## 🛠️ Skills
